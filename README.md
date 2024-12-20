@@ -35,4 +35,5 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Result : 
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
 
